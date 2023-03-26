@@ -1,0 +1,25 @@
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="email"] {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+p#risultato {
+  margin-top: 10px;
+  font-weight: bold;
+}
